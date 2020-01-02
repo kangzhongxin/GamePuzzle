@@ -1,0 +1,10 @@
+E:\软件备份\Article_src\GamePuzzle\bin\Release\GamePuzzle.exe
+E:\软件备份\Article_src\GamePuzzle\bin\Release\GamePuzzle.pdb
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.csprojAssemblyReference.cache
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.FrmMain.resources
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.FrmShowCurrentImage.resources
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.Properties.Resources.resources
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.csproj.GenerateResource.cache
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.csproj.CoreCompileInputs.cache
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.exe
+E:\软件备份\Article_src\GamePuzzle\obj\x86\Release\GamePuzzle.pdb
